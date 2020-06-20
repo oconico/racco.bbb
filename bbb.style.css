@@ -1,0 +1,21 @@
+header {  
+  height: 80px;
+}
+
+img {
+  margin: 20px 0;
+}
+
+a {
+  display: block;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+#line {
+  color: rgb(248, 213, 213);
+}
+
+#kuma {
+  font-weight: bolder;
+}
